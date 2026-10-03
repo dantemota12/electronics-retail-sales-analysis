@@ -32,6 +32,7 @@ Google Sheets, pivot tables, charts.
 ## Files
 - `sprint-1_proyecto-1_limpieza-y-resumen-de-datos-en-hojas-de-calculo.xlsx`: cleaned data, analysis, and executive summary.
 - `images/`: screenshots of the pivot tables and charts.
+- [View the Google Sheet](https://docs.google.com/spreadsheets/d/1e-iAuIjlfBlkLoXhA6lLmpZ_ShDpCwbq/edit?usp=sharing&ouid=116118350435914609784&rtpof=true&sd=true )
 
 
 ## Notes

@@ -30,7 +30,7 @@ Which categories, cities, and months drive sales, and where are the growth and r
 Google Sheets, pivot tables, charts.
 
 ## Files
-- `electronics_sales_analysis.xlsx`: cleaned data, analysis, and executive summary.
+- `sprint-1_proyecto-1_limpieza-y-resumen-de-datos-en-hojas-de-calculo.xlsx`: cleaned data, analysis, and executive summary.
 - `images/`: screenshots of the pivot tables and charts.
 
 
